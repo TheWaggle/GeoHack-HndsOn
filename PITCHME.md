@@ -67,7 +67,6 @@
 
 ---?include=template/md/external-API-5/PITCHME.md
 
----?include=template/md/use-RESTClient-6/PITCHME.md
 
 ---?include=template/md/external-API-data-7/PITCHME.md
 
