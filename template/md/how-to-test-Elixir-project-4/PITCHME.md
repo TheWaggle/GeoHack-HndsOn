@@ -2,7 +2,7 @@
 @snap[breadcrumbs-wrap bluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [5. REPLを利用した開発](#/)
+- [4. REPLを利用した開発](#/)
 @olend
 @snapend
 
@@ -14,7 +14,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [5. REPLを利用した開発](#/)
+- [4. REPLを利用した開発](#/)
 @olend
 @snapend
 
@@ -36,7 +36,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [5. REPLを利用した開発](#/)
+- [4. REPLを利用した開発](#/)
 - [1. IExを利用する](#/)
 @olend
 @snapend
@@ -49,7 +49,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [5. REPLを利用した開発](#/)
+- [4. REPLを利用した開発](#/)
 - [1. IExを利用する](#/)
 @olend
 @snapend

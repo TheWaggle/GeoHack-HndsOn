@@ -2,7 +2,7 @@
 @snap[breadcrumbs-wrap bluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [14. ページ遷移の追加](#/)
+- [12. ページ遷移の追加](#/)
 @olend
 @snapend
 
@@ -14,7 +14,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [14. ページ遷移の追加](#/)
+- [12. ページ遷移の追加](#/)
 @olend
 @snapend
 
@@ -41,7 +41,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [14. ページ遷移の追加](#/)
+- [12. ページ遷移の追加](#/)
 - [1. マップの追加](#/)
 @olend
 @snapend
@@ -54,7 +54,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [14. ページ遷移の追加](#/)
+- [12. ページ遷移の追加](#/)
 - [1. ナビバーへの追加](#/)
 @olend
 @snapend

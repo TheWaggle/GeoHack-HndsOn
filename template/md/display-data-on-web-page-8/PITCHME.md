@@ -2,7 +2,7 @@
 @snap[breadcrumbs-wrap bluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 @olend
 @snapend
 
@@ -14,7 +14,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 @olend
 @snapend
 
@@ -39,7 +39,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [1. HTMLファイルのオープン](#/)
 @olend
 @snapend
@@ -52,7 +52,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [1. HTMLファイルのオープン](#/)
 @olend
 @snapend
@@ -76,7 +76,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [2. HTMLファイルの変更](#/)
 @olend
 @snapend
@@ -89,7 +89,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [2. HTMLファイルの変更](#/)
 @olend
 @snapend
@@ -119,7 +119,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [3. 確認](#/)
 @olend
 @snapend
@@ -132,7 +132,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [3. 確認](#/)
 @olend
 @snapend
@@ -155,7 +155,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [4. HTMLファイルの実装（プログラム）](#/)
 @olend
 @snapend
@@ -168,7 +168,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [4. HTMLファイルの実装（プログラム）](#/)
 @olend
 @snapend
@@ -200,7 +200,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [5. HTMLファイルの実装（表示）](#/)
 @olend
 @snapend
@@ -213,7 +213,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [5. HTMLファイルの実装（表示）](#/)
 @olend
 @snapend
@@ -243,7 +243,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [6. 確認](#/)
 @olend
 @snapend
@@ -256,7 +256,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [9. 抽出データのWebページ表示](#/)
+- [7. 抽出データのWebページ表示](#/)
 - [6. 確認](#/)
 @olend
 @snapend

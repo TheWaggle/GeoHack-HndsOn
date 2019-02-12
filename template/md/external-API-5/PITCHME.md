@@ -2,7 +2,7 @@
 @snap[breadcrumbs-wrap bluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 @olend
 @snapend
 
@@ -14,7 +14,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 @olend
 @snapend
 
@@ -38,7 +38,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 - [1. APIとは](#/)
 @olend
 @snapend
@@ -51,7 +51,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 - [1. APIとは](#/)
 @olend
 @snapend
@@ -70,7 +70,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 - [2. AEDオープンデータプラットフォーム](#/)
 @olend
 @snapend
@@ -83,7 +83,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 - [2. AEDオープンデータプラットフォーム](#/)
 @olend
 @snapend
@@ -98,7 +98,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 - [3. AEDオープンデータプラットフォームとは](#/)
 @olend
 @snapend
@@ -121,7 +121,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 - [3. 直近AED位置情報取得API](#/)
 @olend
 @snapend
@@ -134,7 +134,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 - [3. 直近AED位置情報取得API](#/)
 @olend
 @snapend
@@ -156,7 +156,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 - [4. 確認](#/)
 @olend
 @snapend
@@ -169,7 +169,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [6. APIの利用](#/)
+- [5. APIの利用](#/)
 - [4. 確認](#/)
 @olend
 @snapend

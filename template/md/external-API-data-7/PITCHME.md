@@ -2,7 +2,7 @@
 @snap[breadcrumbs-wrap bluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 @olend
 @snapend
 
@@ -14,7 +14,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 @olend
 @snapend
 
@@ -39,7 +39,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [1. 外部データの取得](#/)
 @olend
 @snapend
@@ -52,7 +52,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [1. 外部データの取得](#/)
 @olend
 @snapend
@@ -88,7 +88,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [2. Elixir の型](#/)
 @olend
 @snapend
@@ -101,7 +101,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [2. Elixir の型](#/)
 @olend
 @snapend
@@ -183,7 +183,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [3. 取得したデータの観察](#/)
 @olend
 @snapend
@@ -196,7 +196,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [3. 取得したデータの観察](#/)
 @olend
 @snapend
@@ -223,7 +223,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [4. 取得したデータの抽出（マップ型）](#/)
 @olend
 @snapend
@@ -236,7 +236,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [4. 取得したデータの抽出（マップ型）](#/)
 @olend
 @snapend
@@ -270,7 +270,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [5. 抽出したデータの確認（マップ型）](#/)
 @olend
 @snapend
@@ -283,7 +283,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [5.  抽出したデータの確認（マップ型）](#/)
 @olend
 @snapend
@@ -318,7 +318,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [5. 取得したデータの抽出（"Latitude"）](#/)
 @olend
 @snapend
@@ -331,7 +331,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [8. 外部データの取得と抽出](#/)
+- [6. 外部データの取得と抽出](#/)
 - [5. 取得したデータの抽出（"Latitude"）](#/)
 @olend
 @snapend

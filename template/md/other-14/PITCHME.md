@@ -2,7 +2,7 @@
 @snap[breadcrumbs-wrap bluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [15. その他のJSライブラリ](#/)
+- [13. その他のJSライブラリ](#/)
 @olend
 @snapend
 
@@ -14,7 +14,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [15. その他のJSライブラリ](#/)
+- [13. その他のJSライブラリ](#/)
 @olend
 @snapend
 
@@ -42,7 +42,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [15. その他のJSライブラリ](#/)
+- [13. その他のJSライブラリ](#/)
 - [1. GeoLocation API](#/)
 @olend
 @snapend
@@ -55,7 +55,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [15. その他のJSライブラリ](#/)
+- [13. その他のJSライブラリ](#/)
 - [1. GeoLocation API](#/)
 @olend
 @snapend
@@ -83,7 +83,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [15. その他のJSライブラリ](#/)
+- [13. その他のJSライブラリ](#/)
 - [2. turf.jsの紹介](#/)
 @olend
 @snapend
@@ -96,7 +96,7 @@
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [15. その他のJSライブラリ](#/)
+- [13. その他のJSライブラリ](#/)
 - [2. turf.jsの紹介](#/)
 @olend
 @snapend
