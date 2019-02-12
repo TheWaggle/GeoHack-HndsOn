@@ -44,7 +44,6 @@
 - Elixirモジュールの追加　@css[detail-comment](hexにあるモジュールを追加する)
 - REPLを利用した開発　@css[detail-comment](REPLによるコードを試しながら開発する)
 - APIの利用 @css[detail-comment](AEDオープンデータプラットフォームを利用してAPIをGetする)
-- RESTClientの操作 @css[detail-comment](RESTClientを利用する)
 - 外部データの取得と抽出 @css[detail-comment](オープンデータを取得する)
 - 抽出データのWebページ表示 @css[detail-comment](抽出したデータをWebに表示する)
 - 地図のWebページ表示 @css[detail-comment](leafletjsを利用する)
