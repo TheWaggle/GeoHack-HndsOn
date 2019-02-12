@@ -58,19 +58,33 @@
 @snapend
 
 ---?include=template/md/basic-knowlede-webgis-1/PITCHME.md
+
 ---?include=template/md/create-a-new-project-2/PITCHME.md
+
 ---?include=template/md/add-modules-3/PITCHME.md
+
 ---?include=template/md/how-to-test-Elixir-project-4/PITCHME.md
+
 ---?include=template/md/external-API-5/PITCHME.md
+
 ---?include=template/md/use-RESTClient-6/PITCHME.md
+
 ---?include=template/md/external-API-data-7/PITCHME.md
+
 ---?include=template/md/display-data-on-web-page-8/PITCHME.md
+
 ---?include=template/md/display-map-on-web-page-9/PITCHME.md
+
 ---?include=template/md/add-location-data-10/PITCHME.md
+
 ---?include=template/md/DB-operation-11/PITCHME.md
+
 ---?include=template/md/map-view-12/PITCHME.md
+
 ---?include=template/md/Page-transition-13/PITCHME.md
+
 ---?include=template/md/other-14/PITCHME.md
+
 ---
 ### @css[slide-title](サンプルコード)
 
