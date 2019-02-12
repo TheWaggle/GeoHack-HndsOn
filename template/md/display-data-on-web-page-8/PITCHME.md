@@ -27,10 +27,10 @@
 @ol[numberlist numberlist-color2](false)
 - [HTMLファイルのオープン](#/)
 - [HTMLファイルの変更](#/)
-- [テスト](#/)
+- [確認](#/)
 - [HTMLファイルの実装（プログラム）](#/)
 - [HTMLファイルの実装（表示）](#/)
-- [テスト](#/)
+- [確認](#/)
 @olend
 
 @snapend
@@ -120,12 +120,12 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [9. 抽出データのWebページ表示](#/)
-- [3. テスト](#/)
+- [3. 確認](#/)
 @olend
 @snapend
 
 @snap[west headline]
-## @color[white](テスト)
+## @color[white](確認)
 @snapend
 
 ---
@@ -133,11 +133,11 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [9. 抽出データのWebページ表示](#/)
-- [3. テスト](#/)
+- [3. 確認](#/)
 @olend
 @snapend
 
-### @css[slide-title](テスト)
+### @css[slide-title](確認)
 
 @snap[slide-contents]
 
@@ -244,12 +244,12 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [9. 抽出データのWebページ表示](#/)
-- [6. テスト](#/)
+- [6. 確認](#/)
 @olend
 @snapend
 
 @snap[west headline]
-## @color[white](テスト)
+## @color[white](確認)
 @snapend
 
 ---
@@ -257,11 +257,11 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [9. 抽出データのWebページ表示](#/)
-- [6. テスト](#/)
+- [6. 確認](#/)
 @olend
 @snapend
 
-### @css[slide-title](テスト)
+### @css[slide-title](確認)
 
 @snap[slide-contents]
 

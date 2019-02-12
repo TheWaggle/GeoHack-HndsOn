@@ -189,7 +189,7 @@
 @snapend
 
 @snap[west headline]
-## @color[white](アプリケーションの起動)
+## @color[white](アプリケーションの<br>起動)
 @snapend
 
 ---

@@ -65,7 +65,7 @@ thumbnail : template/img/screenshot.png
 footnote : "GEOSPATIAL Hackers Program Hands-on" 
 
 # google Analitics
-gatoken :
+gatoken : UA-80065403-5
 
 #codeline setting
 code-line-numbers : true

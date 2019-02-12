@@ -2,31 +2,31 @@
 @snap[breadcrumbs-wrap bluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [5. プロジェクトのテスト方法](#/)
+- [5. REPLを利用した開発](#/)
 @olend
 @snapend
 
 @snap[west headline]
-## プロジェクトの<br>テスト方法
+## REPLを利用した開発
 @snapend
 
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [5. プロジェクトのテスト方法](#/)
+- [5. REPLを利用した開発](#/)
 @olend
 @snapend
 
-### @css[slide-title](プロジェクトのテスト方法)
+### @css[slide-title](REPLを利用した開発)
 
 @snap[slide-contents]
 
-@box[rounded box-style](Phoenix を使ってWebプロジェクトを作成します。)
+@box[rounded box-style](CUI環境でiexと入力する事でREPL（Read-Eval-Print Loop）と呼ばれる機能が動きます。```iex -S mix phx.server```でServerの起動とiexを同時に起動できます。)
 
 @snap[left-column]
 @ol[numberlist numberlist-color2](false)
-- [Elixir のテスト](#/)
+- [REPLを利用した開発](#/)
 @olend
 @snapend
 
@@ -36,36 +36,36 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [5. プロジェクトのテスト方法](#/)
-- [1. Elixir のテスト](#/)
+- [5. REPLを利用した開発](#/)
+- [1. IExを利用する](#/)
 @olend
 @snapend
 
 @snap[west headline]
-## @color[white](Elixir のテスト)
+## @color[white](IExを利用する)
 @snapend
 
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [5. プロジェクトのテスト方法](#/)
-- [1. Elixir のテスト](#/)
+- [5. REPLを利用した開発](#/)
+- [1. IExを利用する](#/)
 @olend
 @snapend
 
-### @css[slide-title](Elixir のテスト)
+### @css[slide-title](IExを利用する)
 
 @snap[slide-contents]
 
-@box[rounded box-style](**CUI** を使って、Elixirで行った開発をテストします。)
+@box[rounded box-style](**CUI** を使って、iexを利用して試します。)
 
 @ol[numberlist numberlist-color4](false)
 - iex -S mix phx.sever<span class="not-selectable"> と入力します。</span>
 - <u>[IEx](https://elixirschool.com/ja/lessons/basics/iex-helpers/)</u> が起動して、**`iex(1)>`** という文字が表示されます。
 - プログラムを一行分入力してEnterキーを押します。
 - 入力した一行分が実行されます。
-- このようにして、素早いフィードバックを得ながら Elixir をテストすることができます。
+- このようにして、素早いフィードバックを得ながら コードを試すことができます。
 @olend
 @snapend
 

@@ -339,7 +339,7 @@
 @snapend
 
 @snap[west headline]
-## @color[white](CUIで文字化けが起こるとき)
+## @color[white](CUIで文字化けが<br>起こるとき)
 @snapend
 
 ---

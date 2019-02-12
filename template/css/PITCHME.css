@@ -80,6 +80,66 @@ strong {
   display: inline-block;
 }
 
+/* YOSUKENAKAO.me  */
+.reveal h3 .me-title {
+  position: fixed;
+  top: 170px;
+  left: 0px;
+  width: 100vmax;
+  margin-left: -500px;
+  padding-left: 500px;
+  text-align: right;
+  color: white;
+}
+.reveal h3 .me-title {
+  width:90%;
+  margin-right: 10%;
+  border-bottom: 1px solid white;
+}
+.me {
+  left: 5vw;
+  width: 90vw;
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+  overflow: visible;
+}
+.avatar-image {
+  position: fixed;
+  left: 100px;
+  min-width: 180px !important;
+  max-width: 180px !important;
+  object-fit: contain;
+}
+.reveal .me-detail {
+  position: fixed;
+  left: 320px;
+  float: right;
+  padding-top: 52px;
+}
+.reveal .me-detail a {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.05);
+  text-shadow: 2px 2px 3px rgba(0,0,0,1);
+  font-weight: lighter;
+  letter-spacing: 1.6px;
+}
+.reveal .me-detail a:hover {
+  color: rgb(170,100,192);
+}
+.reveal .me-detail i {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.05);
+  text-shadow: 2px 2px 3px rgba(0,0,0,1);
+  font-family: "Lato", sans-serif;
+  letter-spacing: 1px;
+}
+.reveal .me-detail i:before {
+  font-family: FontAwesome;
+  margin-right: 10px;
+}
+
+
 /* Title */
 .headline {
   text-align: left;

@@ -76,7 +76,7 @@
 @snapend
 
 @snap[west headline]
-## @color[white](AEDオープンデータプラットフォーム)
+## @color[white](AEDオープンデータ<br>プラットフォーム)
 @snapend
 
 ---

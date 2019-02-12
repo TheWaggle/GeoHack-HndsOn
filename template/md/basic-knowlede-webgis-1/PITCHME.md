@@ -229,21 +229,16 @@ div {
 @snap[slide-contents]
 @snap[code-contents]
 
-<div>
-```
-var myHeading = document.querySelector('h1');
-```
-@[0](「h1」という要素を「myHeading」という名前で操作できるようにします。)
-</div>
-<div>
-```
-myHeading.textContent = "Hello World";
-```
 
-@[0](「myHeading」のテキスト内容（textContent）を「Hello World」に設定します。)
-@[0](この結果、Webページのh1タグが「Hello World」という言葉になって表示されます。)
-</div>
+@snap[gist-box half-gist-box]
+@gist[js zoom-15](Yoosuke/59f42cf61fdb5b3600e6965ab966e6f2)
 @snapend
+
+@[1](```<script></script>```のタグの間にJavascriptを書きます。)
+@[2](varを使ってnameという変数を宣言しています。　= は代入演算子といって、 "YOSUKE"という文字列を変数nameに代入しています。)
+@[3](console.log(name)は、console.log()という関数に変数nameを引数として入れる事でconsoleのlogにYOSUKEが表示されます。)
+
+
 @snapend
 
 ---

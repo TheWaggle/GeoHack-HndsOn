@@ -26,7 +26,7 @@
 
 @ol[numberlist numberlist-color2](false)
 - [外部データの取得](#/)
-- [Elixir の特徴](#/)
+- [Elixir の型](#/)
 - [取得したデータの観察](#/)
 - [取得したデータの抽出（マップ型）](#/)
 - [抽出したデータの確認（マップ型）](#/)
@@ -89,12 +89,12 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 外部データの取得と抽出](#/)
-- [2. Elixir の特徴](#/)
+- [2. Elixir の型](#/)
 @olend
 @snapend
 
 @snap[west headline]
-## @color[white](Elixir の特徴)
+## @color[white](Elixir の型)
 @snapend
 
 ---
@@ -102,11 +102,11 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 外部データの取得と抽出](#/)
-- [2. Elixir の特徴](#/)
+- [2. Elixir の型](#/)
 @olend
 @snapend
 
-### @css[slide-title](Elixir の特徴)
+### @css[slide-title](Elixir の型)
 
 @snap[slide-contents]
 

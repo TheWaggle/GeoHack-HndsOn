@@ -26,21 +26,21 @@
 
 @snap[left-column]
 @ol[numberlist numberlist-color2](false)
-- [外部データからの追加](#/)
-- [DBとは](#/)
-- [SQLとは](#/)
-- [Tableの設計](#/)
-- [ルートの設定](#/)
-- [テーブルの生成](#/)
+- [Ectoを利用したDataの取得](#/)
+- [取得されたDataの確認](#/)
+- [DB取得のモジュール開発準備](#/)
+- [DB取得のモジュール開発](#/)
+- [recompile](#/)
+- [columnとrowを対にする](#/)
 @olend
 @snapend
 
 @snap[right-column]
 @ol[numberlist numberlist-color2 start-7](false)
-- [表示の確認](#/)
-- [緯度・経度を調べる](#/)
-- [DBへの入力](#/)
-- [入力・修正・削除](#/)
+- [Map型へ変換](#/)
+- [連続してMap型へ変換](#/)
+- [to_map関数の追加](#/)
+- [to_map関数の動作確認](#/)
 @olend
 @snapend
 
@@ -116,7 +116,7 @@
 @box[rounded box-style](**CUI** を利用します。取得したDataの構造体を確認します。)
 
 @snap[gist-box half-gist-box]
-@gist[js zoom-06](Yoosuke/32b8b3d1d4cb5ffba23c93fffd1219d6)
+@gist[elixir zoom-09](Yoosuke/32b8b3d1d4cb5ffba23c93fffd1219d6)
 @snapend
 
 @[1](```:ok```というステータスが返ってきています。)
@@ -198,7 +198,7 @@
 @box[rounded box-style](**Visual Studio Code** を利用します。)
 
 @snap[gist-box half-gist-box]
-@gist[js zoom-06](Yoosuke/ae11d619278417963e971972ba791278)
+@gist[js zoom-09](Yoosuke/ae11d619278417963e971972ba791278)
 @snapend
 
 @[1](```Db```というモジュール名で作成します。)
