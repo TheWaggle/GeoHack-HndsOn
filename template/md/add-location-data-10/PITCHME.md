@@ -390,6 +390,7 @@ AED設置場所csvデータをダウンロードします。<br>
 @ol[numberlist numberlist-color2](false)
 - [New Locationをクリック](http://localhost:4000/locations/new)
 - 緯度経度や名前を入力
+- 35.609226 139.730186 品川図書館
 - SAVEをクリック
 @olend
 

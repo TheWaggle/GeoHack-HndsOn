@@ -164,7 +164,7 @@
 </tr>
 <tr>
 	<th><u>[タプル](https://elixirschool.com/ja/lessons/basics/collections/#タプル)</u></th>
-	<td>{1, 2, 3}</td>
+	<td>{:atom, 1}</td>
 </tr>
 <tr>
 	<th><u>[キーワードリスト](https://elixirschool.com/ja/lessons/basics/collections/#キーワードリスト)</u></th>
@@ -172,7 +172,7 @@
 </tr>
 <tr>
 	<th><u>[マップ](https://elixirschool.com/ja/lessons/basics/collections/#マップ)</u></th>
-	<td>%{key = "value"}</td>
+	<td>%{key => "value"}</td>
 </tr></tbody>
 </table>
 @snapend

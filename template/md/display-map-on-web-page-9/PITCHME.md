@@ -27,7 +27,6 @@
 @snap[left-column]
 @ol[numberlist numberlist-color2](false)
 - [leaflet.js とは](#/)
-- [モジュールとは](#/)
 - [leaflet.js の導入方法](#/)
 - [CDNでの追加](#/)
 - [サンプルの追加](#/)
@@ -90,45 +89,12 @@
 
 @snapend
 
-
 ---?color=#77B6D4
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [2. モジュールとは](#/)
-@olend
-@snapend
-
-@snap[west headline]
-## @color[white](モジュールとは)
-@snapend
-
----
-@snap[breadcrumbs-wrap]
-@ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [8. 地図のWebページ表示](#/)
-- [2. モジュールとは](#/)
-@olend
-@snapend
-
-### @css[slide-title](モジュールとは)
-
-@snap[slide-contents]
-@snap[quote-wrap]
-
-@quote[<ul><li>機能単位、**交換可能な構成部分**という意味の英単語</li><li>システムの一部を構成する**ひとまとまりの機能を持った部品**</li><li>規格化・標準化されていて、容易に追加や交換ができる</li></ul>]((http://e-words.jp/w/モジュール.html)
-
-@snapend
-@snapend
-
----?color=#77B6D4
-@snap[breadcrumbs-wrap lightbluescale]
-@ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [8. 地図のWebページ表示](#/)
-- [3. leaflet.js の導入方法](#/)
+- [2]. leaflet.js の導入方法](#/)
 @olend
 @snapend
 
@@ -141,7 +107,7 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [3. leaflet.js の導入方法](#/)
+- [2. leaflet.js の導入方法](#/)
 @olend
 @snapend
 
@@ -168,7 +134,7 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [4. CDNでの追加](#/)
+- [3. CDNでの追加](#/)
 @olend
 @snapend
 
@@ -181,7 +147,7 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [4. CDNでの追加](#/)
+- [3. CDNでの追加](#/)
 @olend
 @snapend
 
@@ -203,7 +169,7 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [5. サンプルの追加](#/)
+- [4. サンプルの追加](#/)
 @olend
 @snapend
 
@@ -216,7 +182,7 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [5. サンプルの追加](#/)
+- [4. サンプルの追加](#/)
 @olend
 @snapend
 
@@ -243,7 +209,7 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [6. プログラムの追加](#/)
+- [5. プログラムの追加](#/)
 @olend
 @snapend
 
@@ -256,7 +222,7 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [6. プログラムの追加](#/)
+- [5. プログラムの追加](#/)
 @olend
 @snapend
 
@@ -282,7 +248,7 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [7. スタイルの追加](#/)
+- [6. スタイルの追加](#/)
 @olend
 @snapend
 
@@ -295,7 +261,7 @@
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
 - [8. 地図のWebページ表示](#/)
-- [7. スタイルの追加](#/)
+- [6. スタイルの追加](#/)
 @olend
 @snapend
 

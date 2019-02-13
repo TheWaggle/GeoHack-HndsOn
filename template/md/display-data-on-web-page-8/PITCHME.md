@@ -61,7 +61,7 @@
 
 @snap[slide-contents]
 
-@box[rounded box-style]( **CUI** を使って、<br>Visual Studio Code で HTMLファイルを開きます。)
+@box[rounded box-style]( **Visual Studio Code** を使って、<br>HTMLファイルを開きます。)
 
 @ol[numberlist numberlist-color4](true)
 - **lib/aedmap_web/templates/page/index.html.eex** を開きます。
