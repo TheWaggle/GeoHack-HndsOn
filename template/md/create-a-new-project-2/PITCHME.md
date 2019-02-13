@@ -41,7 +41,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix プロジェクト](#/)
+- [2. Phoenix プロジェクト](#/)
 - [1. プロジェクトの作成](#/)
 @olend
 @snapend
@@ -171,8 +171,8 @@
 
 @gist[r zoom-09](yuki-thewaggle/72816aa21b6f9fc214197d8ba3218cef)
 
-@[1](説明)
-@[2](説明)
+@[1](リポジトリ「保管場所」用のストレージを作成します)
+@[3-5](このようなメッセージが出てきたら成功です。)
 
 @snapend
 @snapend

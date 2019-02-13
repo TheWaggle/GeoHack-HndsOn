@@ -189,7 +189,7 @@
 @snap[right-column]
 @snap[gist-box half-gist-box]
 
-@gist[json zoom-06](yuki-thewaggle/8d5c582ba46e0350acc6fcba0d66439c)
+@gist[json zoom-06](Yoosuke/2bd2a7f4352318cf756a7e70ece86577)
 
 @[0](上記（先程）とは別データを取得したことを確認します。)
 

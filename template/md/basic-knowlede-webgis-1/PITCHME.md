@@ -129,21 +129,14 @@
 @snap[slide-contents]
 @snap[code-contents]
 
-```
-<html>
-    <head>
-        （文書のタイトルや、CSSやJavaScriptへのリンク、）
-        （メタデータ（データの説明データ）などを記述します。）
-        （Webブラウザーには表示されません。）   
-    </head>
-    <body>
-        （文章や画像などを記述します。）
-    </body>
-</html>
-```
-@[0](「&lt;html&gt;」「&lt;head&gt;」などを タグ と呼びます。)
+@snap[gist-box ]
+@gist[js zoom-8](Yoosuke/b59c57e544ef5f1273c41b3f332cddb9)
+@snapend
+
+@[1-2](「&lt;html&gt;」「&lt;head&gt;」などを タグ と呼びます。)
 @[0](タグを利用して文書の構造や意味などを記述（マークアップ）していきます。)
-@[0](&lt;body&gt;内容&lt;/body&gt; のように、タグで囲んで内容を記述をしていきます。)
+@[6,12](&lt;body&gt;内容&lt;/body&gt; のように、タグで囲んで内容を記述をしていきます。)
+@[8](&lt;div id="section"&gt; のように、タグの中にid="id名をつける事ができます。")
 
 @snapend
 @snapend
@@ -183,15 +176,13 @@
 @snap[slide-contents]
 @snap[code-contents]
 
-```
-div {
-    width: 300px;
-    height: 500px;
-    color: red;
-}
-```
+@snap[gist-box half-gist-box]
+@gist[js zoom-9](Yoosuke/d205b0cd2ada1ac3e8eb0dbe06e312d5)
+@snapend
+
 
 @[0](（適応する対象を指定します）{<br><span></span>（スタイルの種類を選びます）:（値を設定します）;<br>})
+@[1](タグ名で適応範囲を指定しています。この例では、divタグのid=sectionの場所を適応範囲として指定しています。)
 
 @snapend
 @snapend
