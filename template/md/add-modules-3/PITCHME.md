@@ -122,7 +122,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [4. Phoenix Elixir モジュールの追加](#/)
+- [3. Phoenix Elixir モジュールの追加](#/)
 - [3. モジュールの追加方法](#/)
 @olend
 @snapend
@@ -283,7 +283,7 @@
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
 - [ハンズオン講習会の流れ](#/2)
-- [4. Phoenix Elixir モジュールの追加](#/)
+- [3. Phoenix Elixir モジュールの追加](#/)
 - [7. smallex の使い方](#/)
 @olend
 @snapend
