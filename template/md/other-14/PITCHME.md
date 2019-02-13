@@ -22,7 +22,7 @@
 
 @snap[slide-contents]
 
-@box[rounded box-style](自分の位置情報を取得できるJavaScript API、leaflet.jsの地図に情報を追加できるTurf.js、データ可視化に役立つD3.js)
+@box[rounded box-style](自分の位置情報を取得できるJavaScript API、leaflet.jsの地図に情報を追加できるTurf.js)
 
 @snap[left-column]
 @ol[numberlist numberlist-color2](false)
